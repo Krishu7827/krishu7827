@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *HTML,CSS,JavaScript,MongoDB,NodeJS,Express*
 
-- 📫 How to reach me *anshumapunia0@gmail.com*
+- 📫 How to reach me *krishu7827@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/156MlQuWGJ-sZWc17i5Rkq-6uEcLM3q4i/view?usp=sharing](https://drive.google.com/file/d/156MlQuWGJ-sZWc17i5Rkq-6uEcLM3q4i/view?usp=sharing)
 
