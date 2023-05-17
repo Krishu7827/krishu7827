@@ -47,7 +47,7 @@
             height="40" /> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="gcp" width="100"
             height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="git" width="100" height="40" /> </a> <a
+            src="" alt="git" width="100" height="40" /> </a> <a
         href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
             alt="html5" width="100" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
