@@ -31,14 +31,15 @@
 </ul>
 <h2 dir="auto"><a id="user-content-tech-stack" class="anchor" aria-hidden="true" href="#tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Tech Stack</h2>
  
-<p align="center" justify-content="space-between"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<p align="center" justify-content="space-between" padding-left=40 padding-right=40> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;color=E34F26"
             alt="bootstrap" width="100" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://img.shields.io/badge/HTML%205-informational?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;color=E34F26"
+        rel="noreferrer"> 
+         <img
+            src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&amp;logo=css3&amp;logoColor=white&amp;color=1572B6"
             alt="css3" width="100" height="40" /> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-            alt="cypress" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
+        <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;color=F7DF1E"
+            alt="cypress" width="100" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
