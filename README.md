@@ -16,7 +16,7 @@
 - 📫 How to reach me *krishu7827@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/156MlQuWGJ-sZWc17i5Rkq-6uEcLM3q4i/view?usp=sharing)
-- <span display="flex"><img src="https://github.com/fw23-0277/fw23-0277/raw/main/full-stack-development.gif"></img></span>
+- <span align="left"><img src="https://github.com/fw23-0277/fw23-0277/raw/main/full-stack-development.gif"></img></span>
 
 <br>
 <br>
