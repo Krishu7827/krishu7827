@@ -23,7 +23,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:krishu7827@gmail.com">krishu7827@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/1ey4BaXOOfDvxYB1cuNMXCllxA59iiSpN/view?usp=share_link" rel="nofollow">Resume</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/156MlQuWGJ-sZWc17i5Rkq-6uEcLM3q4i/view?usp=sharing" rel="nofollow">Resume</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Normal people counting starts at 1, but programmers counting starts at 0.</strong></p>
