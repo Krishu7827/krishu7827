@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack-developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishu7827&label=Profile%20views&color=0e75b6&style=flat" alt="krishu7827" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishu7827&label=Profile%20views&color=0e75b6&style=flat" alt="krishu7827" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishu7827" alt="krishu7827" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishu7827" alt="krishu7827" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@krishna92959675" target="blank"><img src="https://img.shields.io/twitter/follow/@krishna92959675?logo=twitter&style=for-the-badge" alt="@krishna92959675" /></a> </p>
 
