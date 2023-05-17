@@ -19,7 +19,7 @@
 
 <br>
 <br>
-<hr width=40 align="center">
+<hr  align="center">
 
 <h3 align="center">Connect with me:</h3>
 <br>
