@@ -19,12 +19,12 @@
 
 <br>
 <br>
-
+<hr width=40 align="center">
 
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center" justify-content=space-between>
-<a  href="https://twitter.com/@krishna92959675" target="blank"><img align="center" margin-right=100px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krishna92959675" height="30" width="40" /></a>
+<a  href="https://twitter.com/@krishna92959675" target="blank"><img align="center" margin-right=100 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krishna92959675" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishna kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna kumar" height="30" width="40" /></a>
 <a href="https://fb.com/krishu7827yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishu7827yadav" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codewithkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithkrishna" height="30" width="40" /></a>
