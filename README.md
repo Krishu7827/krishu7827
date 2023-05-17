@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@krishna92959675" target="blank"><img src="https://img.shields.io/twitter/follow/@krishna92959675?logo=twitter&style=for-the-badge" alt="@krishna92959675" /></a> </p>
 
-- 🔭 I’m currently working on [krishu7827.github.io](https://krishu7827.github.io/)
+- 🔭 I’m currently working on [krishu7827.github.io](https://krishu7827.github.io/) 
 
 - 🌱 I’m currently learning *Nodejs , Mongodb ,Express.js*
 
@@ -16,6 +16,7 @@
 - 📫 How to reach me *krishu7827@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/156MlQuWGJ-sZWc17i5Rkq-6uEcLM3q4i/view?usp=sharing)
+- <img src="https://github.com/fw23-0277/fw23-0277/raw/main/full-stack-development.gif"></img>
 
 <br>
 <br>
