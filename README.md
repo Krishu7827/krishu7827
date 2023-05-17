@@ -41,7 +41,7 @@
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api?username=Krishu7827&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-streak-stats.herokuapp.com/?user=fw23-0277&amp;theme=dark" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishu7827&amp;theme=dark" style="max-width: 100%;"></a></p>
  
 <p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishu7827&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishu7827&amp;bg_color=110e0f&amp;color=1ee3e6&amp;line=28e63f&amp;point=e13214&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
 <div align="center" dir="auto">
