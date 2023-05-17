@@ -21,7 +21,7 @@
 <br>
 <hr  align="center">
 
-<h3 align="center" font-size="100px">Connect with me:</h3>
+<h3 align="center" style="font-size:100px;">Connect with me:</h3>
 <br>
 <p align="center" justify-content=space-between>
 <a  href="https://twitter.com/@krishna92959675" target="blank"><img align="center" margin-right=100 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krishna92959675" height="30" width="40" /></a>
