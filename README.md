@@ -95,7 +95,7 @@
         <img src="https://camo.githubusercontent.com/5b3c84ab5053790df98750af5c36c60fb05058f6f2d9f62e94cf48e3650cc4bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747769747465722e706e67" alt="Twitter" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/twitter.png" style="max-width: 100%;">
     </a>
   <a href="https://Krishu7827.github.io" rel="nofollow">
-        <img src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" alt="Twitter" height="30" width="30" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" style="max-width: 100%;">
+        <img src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" alt="Twitter" height="30" width="30" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937" style="max-width: 300;">
     </a>
 </div>
 </article>
