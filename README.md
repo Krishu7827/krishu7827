@@ -69,6 +69,18 @@
         <img src="https://img.shields.io/badge/Postman-informational?style=for-the-badge&amp;logo=postman&amp;logoColor=white&amp;color=FF6C37"
             alt="nodejs" width="100" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
         rel="noreferrer">  </a>
+                 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+            alt="bootstrap" width="100" height="40" /> </a> <a href="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"<
+        rel="noreferrer"> 
+               <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+            alt="bootstrap" width="100" height="40" /> </a> <a href="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" target="_blank"<
+        rel="noreferrer"> 
+             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+            alt="bootstrap" width="100" height="40" /> </a> <a href="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" target="_blank"<
+        rel="noreferrer"> 
+              <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+            alt="bootstrap" width="100" height="40" /> </a> <a href="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" target="_blank"<
+        rel="noreferrer"> 
  </p>
 
 
