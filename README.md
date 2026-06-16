@@ -116,5 +116,5 @@
 </p>
 
 <p align="center">
-  <i>⚡ Fun fact: Normal people count from 1. Programmers count from 0.</i>
+  <i>⚡ Fun fact: Normal people count from 1. Programmers count from 0.(disclaimer: Copy Paste Joke😁)</i>
 </p>
