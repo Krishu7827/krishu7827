@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Krishna+Kumar+👋;Backend+Developer+%7C+Node.js+·+NestJS;Building+at+Scale+for+Millions&font=Fira+Code&center=true&width=480&height=50&color=00e5a0&vCenter=true&size=20&pause=1000" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Krishna+Kumar+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%C2%B7+NestJS;Building+at+Scale+for+Millions&font=Fira+Code&center=true&width=480&height=50&color=00e5a0&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -54,6 +52,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
@@ -63,6 +65,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 **Monitoring & Tools**
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
